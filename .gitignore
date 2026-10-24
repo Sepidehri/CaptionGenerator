@@ -1,0 +1,13 @@
+# Dataset (download_dataset.py + preprocess.py recreate it, including the exact same split)
+data/flickr8k/
+# Training checkpoints; only the slim checkpoints/cnn_lstm_best.pth is versioned (Git LFS)
+checkpoints/*
+!checkpoints/cnn_lstm_best.pth
+
+runs/
+outputs/
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+.DS_Store

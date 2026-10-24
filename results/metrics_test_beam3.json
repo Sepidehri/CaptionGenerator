@@ -1,0 +1,13 @@
+{
+  "bleu1": 0.5929411764705882,
+  "bleu2": 0.4080403202618515,
+  "bleu3": 0.2762129204797953,
+  "bleu4": 0.1867761442928783,
+  "meteor": 0.38977089918049984,
+  "split": "test",
+  "images": 810,
+  "beam_size": 3,
+  "checkpoint_epoch": 39,
+  "seconds_per_image": 0.29,
+  "unique_captions": 606
+}
